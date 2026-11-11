@@ -8,13 +8,13 @@ This is a primitive simulation of a store's operation. Periodically, customers a
 
 ## Running the Simulation
 
-It can be launched using the compiled build located in [Releases](https://github.com/ShutovKS/Store-Simulation/releases) or by cloning and running the project through Unity.
+It can be launched using the compiled build located in [Releases](https://github.com/xAFK-BOTx/Store-Simulation/releases) or by cloning and running the project through Unity.
 
 ## Author
 
 ### Author and Developer
 
-- Kirill Shutov (ShutovKS), Russia
+- xAFK-BOTx, Russia
 
 ## License
 

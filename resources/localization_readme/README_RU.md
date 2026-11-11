@@ -8,13 +8,13 @@ Rus | [Eng](../../README.md)
 
 ## Запуск симуляции
 
-Запустить можно при помощи собранной сборки которая находится в [Releases](https://github.com/ShutovKS/Store-Simulation/releases) или клонировав и запустив проект через Unity.
+Запустить можно при помощи собранной сборки которая находится в [Releases](https://github.com/xAFK-BOTx/Store-Simulation/releases) или клонировав и запустив проект через Unity.
 
 ## Автор
 
 ### Автор и разработчик
 
-* Кирилл Шутов (ShutovKS), Россия
+* xAFK-BOTx, Россия
 
 ## Лицензия
 
